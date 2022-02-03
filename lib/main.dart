@@ -1,5 +1,3 @@
-// ignore_for_file: unnecessary_string_interpolations
-
 import 'dart:ffi';
 import 'dart:math';
 
